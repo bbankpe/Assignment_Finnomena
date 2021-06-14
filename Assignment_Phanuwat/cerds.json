@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "finno-316516",
+  "private_key_id": "757ff58629a9157e239a585393d1b23313301f86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+YgIrRKhLBGoM\nbSWda/lRiubctnyU98UetuNdGsTUJi9Mfvne8aUTcCg9T5M1OZ0ZxFL25/68jBfB\nLAh1TIvxJmhQmvzFNib55mP0A4WQg43FG4pmRrBst0o1BEL8qVj5cFoz680XFqnS\n0BHUMOxvyJ5UV0SUkntQyRz5CTYDxUGikUsIGNJb1N+jVY+4Yujn4sasVtHxkqgC\nbaAikGWe0Ajf4nLOaUAj8x7vpk0aoPJMAo1adaSNxHAaWLT1A6m4t8BUaEUEbDQO\n5I/KAC6LdgKeTUnlLzM4g1BJUcd5TgugYCncxx1tMgLJMW0W67kNDlb/UkDQh08R\nCQV118sNAgMBAAECggEABmTCYmNwocOmRRW69D2z9oVV6fZ173HKYf+YhKAEGVom\nmf4kqZRPa9GchFdCYBX30kL0hKa3YxZzAMbYCjUVzmAwviOVAWbSFG/kjkVlAadY\nBj/THCAGckGN4YMWYH0BHYVkqMbj5mvZga3WVMbc1dyKAVaZ7sG5mEsHaPn3y/9l\nGhdahqGVepdLl24/zKn9Ch9UMFPCY0Kq26q+43peUYNrL+JRhuD7HTun5sXxNI4o\nuCTFfnix3dU5hmuLZVfUCNO1hjiFMbsu9nqjFyZmKW7oOy0Z7hN/4FxjeMFxzFe2\nJLj43yoiPIe4xHf/DkLH9nnv5b91PmE/TLE9ClyYOQKBgQDsO5SUcDuRnD2ZtFTd\nfCFoYGkPN312wdCnlcQnPWMCtdKZYhRZ9TFMNifNz4rBog0IRhKHNzUm1A9TWQr+\nm5J2Al2VPXt7TtfPWXP67QvnJBwfm8sJUOrmjh/EwA+KEtQLcNK+zXXtygb1TZbI\nNAWK1iphm1G8EeaRat9B0vt8mQKBgQDOUEMtS2w4dcHNzV4NGOk5aLJCEQwGdVZC\nuVckyvANxX73yYuEWWgbrwyuGTvub6WhRYizYVoZa3Sc2YcdqPdMbjzQ560p6VWy\nQyr6aWB+SQOP0LxW3ySoVpKEYC4e6WXZyj9ybhCdFKD4qN5TtQqei4CDmmpivcal\n/GgLFLA2lQKBgQDInbCIfueXuP/3UFXh4lDcu0N9ULqT5/Sy3VU/nbo/yvmWmNx/\nqOK8viD/f4lu95fptth1TEUvPFfniG712lh/L3MaEqSTC1nrFSSRrE23dcsMbNn4\nh2d1dK02AYUw1NyO+rl+oC3OSwuttr6eNs+eIFLNoYHAHdOZGxGObQZ1wQKBgCgT\n6WjUHPq+zV4oRdvveebgErjIzPg4NQCTNn18OrPCKM8DxOl54MJ399OeLUk9QQSa\nGFsYT0Ne33FUxG2blCaxx3iheL8Kh84wRBoO/GKr1lhKqTuK73kQEDhM4si4eEOd\niUO2Y93P0xFa5I2IPr7bxKRMC9yQlxVJegClDTIdAoGBANe/uLiNUcbly8gw19Xc\nUtOZzkaah31Udar9mPkzu4kNZKoDlLnuZPJNwvM2t1GpjnHST9+QAKN55yOquYd7\nJ8DwFk9BkZysAM4ySshr+TbAsOsWGeEtZnX42tRPKNTr2X6V5x4GyZTqlvbJyH07\n/PmkfS+bQc2bl12tA74RPy16\n-----END PRIVATE KEY-----\n",
+  "client_email": "finnopy@finno-316516.iam.gserviceaccount.com",
+  "client_id": "105700648134474576597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finnopy%40finno-316516.iam.gserviceaccount.com"
+}
