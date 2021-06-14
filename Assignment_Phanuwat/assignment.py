@@ -1,3 +1,7 @@
+#Finnomena Assignment
+#Phanuwat Ekjeen
+#14 June 2021
+
 from time import time
 from trello import TrelloClient
 from trello import label
