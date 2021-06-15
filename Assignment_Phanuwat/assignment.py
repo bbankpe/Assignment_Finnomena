@@ -2,15 +2,14 @@
 #Phanuwat Ekjeen
 #14 June 2021
 
-from time import time
 from trello import TrelloClient
-from trello import label
-from trello.label import Label
-import datetime
-
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+from pprint import pprint
+
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
 cerds = ServiceAccountCredentials.from_json_keyfile_name("cerds.json", scope)
 client = gspread.authorize(cerds)
